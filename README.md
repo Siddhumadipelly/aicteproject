@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Srinidhi </p>
+<p align="left">My name is siddhartha </p>
 
 ###
 
